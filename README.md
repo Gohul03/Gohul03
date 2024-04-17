@@ -4,7 +4,7 @@ import { View, Text, Button, StyleSheet } from 'react-native';
 const HomeScreen = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Hello, I'm [Your Name]</Text>
+      <Text style={styles.text}>Hello, I'm [GOHUL]</Text>
       <Button title="Press Me" onPress={() => alert('Button Pressed!')} />
     </View>
   );
